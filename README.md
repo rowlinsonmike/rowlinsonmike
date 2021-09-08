@@ -1,10 +1,10 @@
-<div style="display:flex;">
-<img height="200px" src="./assets/sassy-shiba.gif" style="margin-right: 20px" />
-<div style="display:flex;flex-direction:column;justify-content:center;">
-<h2>Michael Rowlinson 👋😎🤙</h2>
-<h3>Solution Architect 💯🎉</h3>
-</div>
-</div>
+<p align="center">
+  <img width="460" height="300" src="./assets/me.png">
+</p>
+<h1 align="center">Michael Rowlinson</h1>
+<h2 align="center">Lead Cloud Architect</h2>
+
+
 <div style="display:flex;flex-direction:column;justify-content:center;;align-items:center;">
 <ul>
 <li>🔭 I’m currently working on Enterprise SaaS solutions in AWS</li>
@@ -15,3 +15,4 @@
 <!--
 **rowlinsonmike/rowlinsonmike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
