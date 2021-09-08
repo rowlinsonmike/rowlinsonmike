@@ -5,10 +5,10 @@
 <p align="center">Lead Cloud Architect</p>
 <br/>
 
-<img align="right" width="100" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowlinsonmike&theme=dracula&layout=compact" alt="Michael Rowlinson's Used Languages">
+<img align="right" width="500" height="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowlinsonmike&theme=dracula&layout=compact" alt="Michael Rowlinson's Used Languages">
 Hello World! I'm a Lead Cloud Architect specializing in AWS. I like building with my weapons of choice - python and javascript.
 
-<img align="right" width="100" height="100" src="https://github-readme-stats.vercel.app/api?username=rowlinsonmike&show_icons=true&theme=dracula&hide=prs,issues,contribs&count_private=true&hide_rank=true" alt="Michael Rowlinson's GitHub stats">
+<img align="right" width="500" height="500" src="https://github-readme-stats.vercel.app/api?username=rowlinsonmike&show_icons=true&theme=dracula&hide=prs,issues,contribs&count_private=true&hide_rank=true" alt="Michael Rowlinson's GitHub stats">
 </p>
 
 
