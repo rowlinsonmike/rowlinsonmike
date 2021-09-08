@@ -5,8 +5,9 @@
 <p align="center">Lead Cloud Architect</p>
 <br/>
 
-[![Michael Rowlinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=rowlinsonmike&show_icons=true&theme=dracula)]
-
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=rowlinsonmike&show_icons=true&theme=dracula" alt="Michael Rowlinson's GitHub stats">
+</p>
 
 
 
