@@ -15,6 +15,7 @@ li{
 <br/>
 
 <img align="right" width="300" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowlinsonmike&theme=dracula&layout=compact" alt="Michael Rowlinson's Used Languages">
+
 ### 😎 ABOUT ME
 Hello World! I'm a Lead Cloud Architect specializing in AWS. I like building with my weapons of choice - python and javascript. Automation is the way! I'm currently engaged on security automation, guardrails, disaster recovery, and large enterprise AWS architectures in my professional career and react native and bleeding edge tech in my personal time.  
 
