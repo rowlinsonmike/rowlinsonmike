@@ -2,7 +2,12 @@
   <img width="460" height="300" src="./assets/me.png">
 </p>
 <h1 align="center">Michael Rowlinson</h1>
-<h2 align="center">Lead Cloud Architect</h2>
+<p align="center">Lead Cloud Architect</p>
+<br/>
+<p align="center">
+![Michael Rowlinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=rowlinsonmike&show_icons=true&theme=dracula)
+</p>
+
 
 
 <div style="display:flex;flex-direction:column;justify-content:center;;align-items:center;">
