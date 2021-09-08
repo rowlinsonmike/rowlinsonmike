@@ -1,9 +1,3 @@
-<style>
-li{
-    text-decoration: none;
-}
-
-</style>
 
 <p align="center">
   <img width="460" height="300" src="./assets/me.png">
