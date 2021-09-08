@@ -6,6 +6,7 @@
 <br/>
 
 <p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowlinsonmike&theme=dracula" alt="Michael Rowlinson's Used Languages">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=rowlinsonmike&show_icons=true&theme=dracula" alt="Michael Rowlinson's GitHub stats">
 </p>
 
