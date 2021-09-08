@@ -6,7 +6,7 @@
 <br/>
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowlinsonmike&theme=dracula" alt="Michael Rowlinson's Used Languages">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowlinsonmike&theme=dracula&layout=compact" alt="Michael Rowlinson's Used Languages">
   <img  src="https://github-readme-stats.vercel.app/api?username=rowlinsonmike&show_icons=true&theme=dracula&layout=compact" alt="Michael Rowlinson's GitHub stats">
 </p>
 
