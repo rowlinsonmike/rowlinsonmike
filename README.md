@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧙‍♂️ Code Wizard from Hackwartz School of Googling and Debuggery
+🧙‍♂️ Code Wizard from the Hackwartz School of Googling and Debuggery
 
 
 ## 🌐 Socials:
