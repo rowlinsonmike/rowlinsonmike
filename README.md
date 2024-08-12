@@ -1,6 +1,7 @@
 # 💫 About Me:
-🧙‍♂️ Code Wizard from the Hackwartz School of Googling and Debuggery 🔮
 
+I'm Michael Rowlinson, devil dog 🇺🇸, developer, wanderer ⛰️.
+I build products for giant enterprises that save millions of dollars. In my spare time I build mobile apps and other digital shenanigans.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelrowlinson/) 
