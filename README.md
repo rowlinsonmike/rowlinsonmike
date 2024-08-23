@@ -12,8 +12,5 @@ I build products for giant enterprises that save millions of dollars. In my spar
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rowlinsonmike&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rowlinsonmike&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rowlinsonmike&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=rowlinsonmike&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
