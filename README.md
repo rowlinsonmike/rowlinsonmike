@@ -1,4 +1,4 @@
-"Back off man, I'm a Scientist [Solution Architect]"
+"Back off man, I'm a Scientist [Lead Cloud Architect]"
 
 I build solutions for enterprises that save millions.
 
